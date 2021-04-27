@@ -1,0 +1,36 @@
+body
+{
+    
+background-size: cover;
+}
+#header_btn
+{
+    width:100%;
+    font-size:18px;
+}
+#footer_div
+{
+    background: linear-gradient(to right, rgb(81, 98, 250) 0%,rgb(240, 37, 196) 100%,rgb(175, 0, 117) 150%);
+    color:rgb(255, 255, 255);
+   bottom:0;
+   position:fixed;  
+    box-shadow: 5 18 5 white;
+    border-radius:15px;
+    font-size:23px;
+    width:100%;
+}
+canvas
+{
+border-radius:15px;
+box-shadow: 7 18 5 white;
+border:white 3px;
+margin-top:10px;
+}
+label{
+    color:white;
+}
+#textbox
+{
+    width: 300px;
+    height:30px;
+}
